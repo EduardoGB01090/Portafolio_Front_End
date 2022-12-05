@@ -1,2 +1,0 @@
-# Portafolio_Front_End
-Repo_Portafolio_con_Front_End
